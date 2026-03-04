@@ -32,7 +32,8 @@ Optimize inventory planning and future product launches.
 
 By transforming historical data into actionable insights, this project provides strategic value for informed business decision-making within the video game industry.
 
-📊 Análisis de Ventas y Éxito de Videojuegos – Tienda Online ICE
+---
+## 📊 Análisis de Ventas y Éxito de Videojuegos – Tienda Online ICE
 
 Este proyecto se centra en el análisis de datos de ICE, una tienda online dedicada a la venta de videojuegos a nivel mundial.
 
