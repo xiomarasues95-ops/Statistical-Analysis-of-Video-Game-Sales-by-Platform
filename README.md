@@ -1,10 +1,65 @@
 # Statistical-Analysis-of-Video-Game-Sales-by-Platform 
 
-Descripción del proyecto
-Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
+📊 Video Game Sales and Success Analysis – ICE Online Store
 
-Delante de ti hay datos que se remontan a 2016. Imaginemos que es diciembre de 2016 y estás planeando una campaña para 2017.
+This project focuses on the data analysis of ICE, an international online video game retailer.
 
-Lo importante es adquirir experiencia de trabajo con datos. Realmente no importa si estás pronosticando las ventas de 2017 en función de los datos de 2016 o las ventas de 2027 en función de los datos de 2026.
+The primary objective is to identify patterns and key factors that determine a video game's commercial success.
 
-El dataset contiene una columna "rating" que almacena la clasificación ESRB de cada juego. El Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
+To achieve this, the analysis considers the following variables:
+
+📈 User and professional critic reviews
+
+🎮 Game genre
+
+🕹️ Platform (e.g., Xbox, PlayStation, among others)
+
+🌍 Historical sales data by region
+
+📅 Release year
+
+Through exploratory data analysis (EDA) and historical trend evaluation, this project aims to:
+
+Identify common characteristics among top-performing games.
+
+Analyze the lifecycle of gaming consoles.
+
+Detect emerging and declining platforms.
+
+Support data-driven decision-making for marketing campaigns.
+
+Optimize inventory planning and future product launches.
+
+By transforming historical data into actionable insights, this project provides strategic value for informed business decision-making within the video game industry.
+
+📊 Análisis de Ventas y Éxito de Videojuegos – Tienda Online ICE
+
+Este proyecto se centra en el análisis de datos de ICE, una tienda online dedicada a la venta de videojuegos a nivel mundial.
+
+El objetivo principal es identificar patrones que permitan determinar qué factores influyen en el éxito comercial de un videojuego.
+
+Para ello, se analizan las siguientes variables:
+
+📈 Reseñas de usuarios y críticos especializados
+
+🎮 Género del videojuego
+
+🕹️ Plataforma (por ejemplo, Xbox, PlayStation, entre otras)
+
+🌍 Ventas históricas por región
+
+📅 Año de lanzamiento
+
+A través del análisis exploratorio de datos (EDA) y la evaluación de tendencias históricas, se busca:
+
+Identificar características comunes en los juegos más exitosos.
+
+Analizar el ciclo de vida de las consolas.
+
+Detectar plataformas emergentes o en declive.
+
+Apoyar la toma de decisiones estratégicas en campañas de marketing.
+
+Optimizar la planificación de inventario y lanzamientos futuros.
+
+Este análisis permite transformar datos históricos en información estratégica clave para la toma de decisiones comerciales basadas en datos.
